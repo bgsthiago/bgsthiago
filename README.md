@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<h3 title="welcome"> Hello, my name is Thiago!</h3>
+<img align='right' src="https://cdn.discordapp.com/attachments/761797650038521859/874462930488422410/ezgif-4-635f8329efad.gif" width="150">
+<em><p>Entry level data engineer @ <a href="https://gamersclub.com.br/">Gamers Club</a>
+<br>Computer Scientist graduated @ <a href="http://www.unb.br">UFSCar</a>
+</em></p>
 <!--
 **bgsthiago/bgsthiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
